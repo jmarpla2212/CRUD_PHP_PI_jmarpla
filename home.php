@@ -35,7 +35,7 @@
 
 <div class="container">
   <div class="vertical-center">
-  <font size="+4">Más de 46 desarrollos totalmente gratuitos en <b><a href="https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/">ConfiguroWeb</a></b></font>
+  <font size="+4">Pagina principal de CRUD PHP - <b>jmarpla2212</b></font>
   </div>
 </div>
 
