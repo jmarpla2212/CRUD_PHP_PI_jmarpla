@@ -16,6 +16,7 @@ if($result->num_rows == 1)
 	header('Location: home.php');  
 }
 else{ 
-	header('Location: login.html');
+	#header('Location: login.html');
+	header('Location: login.php?error=true');
 }
 ?>
