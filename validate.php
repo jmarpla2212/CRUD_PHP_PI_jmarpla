@@ -6,6 +6,7 @@ $username = $_POST['username'];
 $password = $_POST['password'];
  
 $username = $mysqli->real_escape_string($username);
+$password = $mysqli->real_escape_string($password);
  
 $query = "SELECT username, password FROM users WHERE username = '$username' AND password='$password';";
 $result = $mysqli->query($query);
